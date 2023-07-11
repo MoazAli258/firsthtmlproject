@@ -1,0 +1,25 @@
+body{
+    background-color: white;}
+    h1{
+        color: aqua;
+    }
+    h2{
+        color: brown;
+    }
+    h3{
+        color: brown;
+    }
+    
+hr{
+    background-color: white;
+    height: 2px;
+    border-style: none ;
+    border-top-style: dotted;
+    border-width: 20px;
+    border-color: blueviolet;
+    width: 10%;
+}
+img{
+    height: 150px;
+}
+
